@@ -27,7 +27,7 @@ A famous weakly supervised learning model for video anomaly detection (VAD).
 - Webcam abnormal face data
 - Webcam abnormal motion data
 
-## 관련 오류
+## Troubleshooting
 - RuntimeError: Expected a 'cuda' device type for generator but found 'cpu'
     - See cuda_troubleshooting.txt
 - No visdom error
