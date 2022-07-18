@@ -1,0 +1,14 @@
+*.npy
+*.mp4
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+*.pkl
+*.txt
+
+!3270-step-AUC.txt
+
+!ckpt/
+ckpt/*
+!ckpt/rtfm_ucf_x3d_tencrop3270-x3d.pkl
+!ckpt/rtfm_ucf_x3d_tencropfinal.pkl
